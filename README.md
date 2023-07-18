@@ -16,7 +16,7 @@ In this challenge, we will try to predict if a passenger survived or not during 
 
 | Model | Accuracy |
 | --- | --- |
-| LightGBM | 0.77990 |
-| XGBoost | 0.77033 |
-| Logistic Regression | 0.76555 |
+| LightGBM | 0.77511 |
+| XGBoost | 0.77511 |
+| Logistic Regression | 0.76794 |
 
